@@ -35,6 +35,11 @@ function Navbar() {
             Contact
           </Link>
         </li>
+        <li>
+          <Link to="/contact" className="hover:underline cursor-pointer">
+            Transactions
+          </Link>
+        </li>
       </ul>
     </nav>
   );

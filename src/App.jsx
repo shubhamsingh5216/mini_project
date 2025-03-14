@@ -9,6 +9,8 @@ import Payments1 from "./components/Payments1";
 import Profile1 from "./components/Profile1";
 import Contact1 from "./components/Contact1";
 import PaymentOptions1 from "./components/PaymentGateway1";
+import SuccessPayment from "./components/Success";
+import FailurePage from "./components/Fail";
 
 // Dummy components for each page
 function Home() {
@@ -61,6 +63,9 @@ function App() {
               <Route path="/profile" element={<Profile />} />
               <Route path="/contact" element={<Contact />} />
               <Route path="/paymentOptions" element={<PaymentOptions />} />
+              <Route path="/success" element={<SuccessPayment/>} />
+              <Route path="/fail" element={<FailurePage/>} />
+
             </Routes>
           </div>
         </div>

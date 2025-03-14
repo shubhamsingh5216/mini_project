@@ -73,7 +73,7 @@ const About = () => {
             </div>
             <div className="text-center">
               <div className="w-24 h-24 mx-auto rounded-full bg-indigo-100"></div>
-              <h4 className="mt-4 text-xl font-bold text-gray-800">Sonali shetty</h4>
+              <h4 className="mt-4 text-xl font-bold text-gray-800">Sonali shet</h4>
               <p className="text-gray-600">CTO</p>
             </div>
             <div className="text-center">
@@ -84,7 +84,7 @@ const About = () => {
             <div className="text-center">
               <div className="w-24 h-24 mx-auto rounded-full bg-indigo-100"></div>
               <h4 className="mt-4 text-xl font-bold text-gray-800">Shubham</h4>
-              <p className="text-gray-600">Berozgar</p>
+              <p className="text-gray-600">Tecnical member</p>
             </div>
           </div>
         </section>

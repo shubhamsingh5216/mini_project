@@ -19,6 +19,7 @@
     "accordion": "^3.0.2",
     "add": "^2.0.6",
     "alert": "^6.0.2",
+    "axios": "^1.7.9",
     "button": "^1.1.1",
     "card": "^2.5.4",
     "class-variance-authority": "^0.7.1",

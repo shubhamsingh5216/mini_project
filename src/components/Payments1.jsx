@@ -1,6 +1,8 @@
 import React from "react";
 
 const Payments1 = () => {
+ 
+
   return (
     <div className="min-h-screen bg-gray-100">
       {/* Header Section */}

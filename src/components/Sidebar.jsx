@@ -19,7 +19,8 @@ function Sidebar() {
         {/* Home Tab */}
         <li className="flex items-center p-2 hover:bg-gray-700 rounded cursor-pointer">
           <HomeIcon className="h-6 w-6 mr-3 text-gray-400" />
-          <span>Home</span>
+          <span>Home
+          </span>
         </li>
 
         {/* User Profile */}
